@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 3f93e2b50db385447a4732bad75bfc13
+timeCreated: 1477187556
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BezierCircle
+    100004: BezierCurve_002
+    100006: BezierCurve_004
+    100008: BezierCurve_005
+    100010: BezierCurve_007
+    100012: BezierCurve_009
+    100014: BezierCurve_011
+    100016: BezierCurve_012
+    100018: BezierCurve_013
+    100020: Cone
+    100022: Cone_009
+    100024: Cone_015
+    100026: Cone_017
+    100028: Icosphere
+    100030: Icosphere_004
+    100032: Sphere
+    100034: Sphere_001
+    100036: Sphere_002
+    100038: Sphere_003
+    100040: Sphere_004
+    100042: Sphere_005
+    400000: //RootNode
+    400002: BezierCircle
+    400004: BezierCurve_002
+    400006: BezierCurve_004
+    400008: BezierCurve_005
+    400010: BezierCurve_007
+    400012: BezierCurve_009
+    400014: BezierCurve_011
+    400016: BezierCurve_012
+    400018: BezierCurve_013
+    400020: Cone
+    400022: Cone_009
+    400024: Cone_015
+    400026: Cone_017
+    400028: Icosphere
+    400030: Icosphere_004
+    400032: Sphere
+    400034: Sphere_001
+    400036: Sphere_002
+    400038: Sphere_003
+    400040: Sphere_004
+    400042: Sphere_005
+    2300000: BezierCircle
+    2300002: BezierCurve_002
+    2300004: BezierCurve_004
+    2300006: BezierCurve_005
+    2300008: BezierCurve_007
+    2300010: BezierCurve_009
+    2300012: BezierCurve_011
+    2300014: BezierCurve_012
+    2300016: BezierCurve_013
+    2300018: Cone
+    2300020: Cone_009
+    2300022: Cone_015
+    2300024: Cone_017
+    2300026: Icosphere
+    2300028: Icosphere_004
+    2300030: Sphere
+    2300032: Sphere_001
+    2300034: Sphere_002
+    2300036: Sphere_003
+    2300038: Sphere_004
+    2300040: Sphere_005
+    3300000: BezierCircle
+    3300002: BezierCurve_002
+    3300004: BezierCurve_004
+    3300006: BezierCurve_005
+    3300008: BezierCurve_007
+    3300010: BezierCurve_009
+    3300012: BezierCurve_011
+    3300014: BezierCurve_012
+    3300016: BezierCurve_013
+    3300018: Cone
+    3300020: Cone_009
+    3300022: Cone_015
+    3300024: Cone_017
+    3300026: Icosphere
+    3300028: Icosphere_004
+    3300030: Sphere
+    3300032: Sphere_001
+    3300034: Sphere_002
+    3300036: Sphere_003
+    3300038: Sphere_004
+    3300040: Sphere_005
+    4300000: BezierCircle
+    4300002: BezierCurve_005
+    4300004: BezierCurve_009
+    4300006: BezierCurve_013
+    4300008: BezierCurve_012
+    4300010: BezierCurve_011
+    4300012: BezierCurve_007
+    4300014: BezierCurve_004
+    4300016: BezierCurve_002
+    4300018: Cone
+    4300020: Icosphere
+    4300022: Sphere
+    4300024: Sphere_001
+    4300026: Sphere_002
+    4300028: Sphere_003
+    4300030: Sphere_004
+    4300032: Sphere_005
+    4300034: Icosphere_004
+    4300036: Cone_009
+    4300038: Cone_015
+    4300040: Cone_017
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
